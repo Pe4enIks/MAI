@@ -1,0 +1,35 @@
+==16654== NVPROF is profiling process 16654, command: build/gpu
+==16654== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==16654== Profiling application: build/gpu
+==16654== Profiling result:
+==16654== Event result:
+Invocations                                Event Name         Min         Max         Avg
+Device "GeForce GT 545 (0)"
+	Kernel: nullification_down_kernel(double*, int, int)
+        999                          divergent_branch           0        5191         141
+        999                  global_store_transaction         864      251676      101551
+	Kernel: swap_kernel(double*, int, int, int)
+        989                          divergent_branch           1           1           1
+        989                  global_store_transaction        4608        4608        4608
+	Kernel: divide_by_diagonal_kernel(double*, int)
+          1                          divergent_branch         128         128         128
+          1                  global_store_transaction       94020       94020       94020
+	Kernel: nullification_up_kernel(double*, int, int)
+        999                          divergent_branch           0         628         124
+        999                  global_store_transaction         864      126408       60972
+
+==16654== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "GeForce GT 545 (0)"
+	Kernel: nullification_down_kernel(double*, int, int)
+        999                             sm_efficiency                   Multiprocessor Activity      78.90%      99.75%      98.21%
+        999                         branch_efficiency                         Branch Efficiency      97.09%     100.00%      99.72%
+	Kernel: swap_kernel(double*, int, int, int)
+        989                             sm_efficiency                   Multiprocessor Activity      71.00%      78.18%      75.06%
+        989                         branch_efficiency                         Branch Efficiency      99.95%      99.95%      99.95%
+	Kernel: divide_by_diagonal_kernel(double*, int)
+          1                             sm_efficiency                   Multiprocessor Activity      99.02%      99.02%      99.02%
+          1                         branch_efficiency                         Branch Efficiency      99.91%      99.91%      99.91%
+	Kernel: nullification_up_kernel(double*, int, int)
+        999                             sm_efficiency                   Multiprocessor Activity      78.40%      99.57%      97.87%
+        999                         branch_efficiency                         Branch Efficiency      97.11%     100.00%      99.68%
