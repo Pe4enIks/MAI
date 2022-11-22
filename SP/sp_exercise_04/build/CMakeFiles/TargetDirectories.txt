@@ -1,0 +1,3 @@
+C:/Users/SuperPC/Downloads/lab04/build/CMakeFiles/SP_4.dir
+C:/Users/SuperPC/Downloads/lab04/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SuperPC/Downloads/lab04/build/CMakeFiles/ZERO_CHECK.dir

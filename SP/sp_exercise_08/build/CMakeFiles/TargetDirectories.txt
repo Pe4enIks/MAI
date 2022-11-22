@@ -1,0 +1,3 @@
+C:/Users/SuperPC/Downloads/Lab08/build/CMakeFiles/sp_exercise_08.dir
+C:/Users/SuperPC/Downloads/Lab08/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SuperPC/Downloads/Lab08/build/CMakeFiles/ZERO_CHECK.dir

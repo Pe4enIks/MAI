@@ -1,0 +1,7 @@
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/MakeCodeGen.dir
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/MLispGen.dir
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/zeller.dir
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/coin21.dir
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/golden21.dir
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SuperPC/Downloads/curs1/build/CMakeFiles/ZERO_CHECK.dir
