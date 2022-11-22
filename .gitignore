@@ -1,7 +1,7 @@
 **__pycache__**
 **.asc
-PGP/**.docx
-PGP/**.pptx
+PGP/**/**.docx
+PGP/**/**.pptx
 **.data
 PGP/gpg.txt
 .vscode/
