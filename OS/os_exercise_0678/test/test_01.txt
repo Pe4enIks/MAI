@@ -1,0 +1,14 @@
+create 6
+create 5
+create 7
+exec 7 2 2 1
+exec 5 4 3 1 2 3
+remove 7
+exec 6 1 2
+exec 5 3 0 0 1
+exec 5 -1
+create 6
+remove d
+heartbit d
+heartbit 5
+exit
