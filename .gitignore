@@ -6,3 +6,6 @@ PGP/**/**.pptx
 PGP/gpg.txt
 .vscode/
 .idea/
+NI/**/checkpoints/
+NI/**/*.zip
+NI/**/*.html
