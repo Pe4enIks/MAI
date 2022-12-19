@@ -5,3 +5,6 @@
 2. [вариант 2](/PGP/pgp_tasks/pgp_2.pdf)
 3. [вариант 1](/PGP/pgp_tasks/pgp_3.pdf)
 4. [вариант 2](/PGP/pgp_tasks/pgp_4.pdf)
+
+Курсовые проекты:
+1. [вариант 8](/PGP/pgp_tasks/pgp_kp_1.pdf)
